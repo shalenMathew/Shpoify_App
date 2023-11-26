@@ -1,7 +1,7 @@
 # Shpoify_App
 A simple ecommerce app which displays data using api<br><br>
 
-Features:<br>
+Features:<br><br>
 follows MVVm pattern<br>
 Uses dependency injection<br>
 Uses retrofit<br>
