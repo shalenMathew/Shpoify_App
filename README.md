@@ -2,9 +2,9 @@
 A simple ecommerce app which displays data using api<br><br>
 
 Features:<br><br>
-follows MVVm pattern<br>
-Uses dependency injection<br>
-Uses retrofit<br>
+1. Follows MVVm pattern<br>
+2. Uses dependency injection<br>
+3. Uses retrofit<br>
 <br>
 <p>Home</p>
 <img src="https://github.com/shalenMathew/Shpoify_App/blob/master/pics/1%20(2).png" alt="Splash_Screen" width="270" height="500">
