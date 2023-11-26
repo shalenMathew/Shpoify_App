@@ -6,6 +6,8 @@ A simple ecommerce app which displays data using api
 <p>Uses dependency injection</p>
 <p>Uses retrofit</p>
 </n>
+</n>
+</n>
 <p>Home</p>
 <img src="https://github.com/shalenMathew/Shpoify_App/blob/master/pics/1%20(2).png" alt="Splash_Screen" width="270" height="500">
 <p>Category</p>
