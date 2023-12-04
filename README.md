@@ -3,7 +3,7 @@ A simple ecommerce app which displays data using api<br><br>
 
 Features:<br><br>
 1. Follows MVVm pattern<br>
-2. Uses dependency injection<br>
+2. Uses Dagger2<br>
 3. Uses retrofit<br>
 <br>
 <p>Home</p>
